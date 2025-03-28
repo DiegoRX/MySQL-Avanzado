@@ -78,9 +78,8 @@ Al final de este módulo, será capaz de:
 
 ## Desarrollo del curso
 ## Módulo 1
-[[Funciones avanzadas de MySQL y procedimiento almacenado]](Funciones&Procedures.md)
-
-[[INFORMATION_SCHEMA en MySQL]](INFORMATION_SCHEMA%20.md)
+- [[Funciones avanzadas de MySQL y procedimiento almacenado]](Funciones&Procedures.md)
+- [[INFORMATION_SCHEMA en MySQL]](INFORMATION_SCHEMA%20.md)
 [[Tablas Temporales]](TablasTemporales.md)
 #### Desencadenadores y Eventos MySQL
 - [[MySQL Triggers]](Triggers.md)
