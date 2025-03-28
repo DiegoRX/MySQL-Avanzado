@@ -86,11 +86,11 @@ Al final de este módulo, será capaz de:
 - [[MySQL Triggers]](Triggers.md)
 - [[MySQL Events]](Events.md)
 ## Módulo 2 - Optimización
--[[Database Optimization MySQL]](DatabaseOptimizationMySQL.md)
--[[MySQL Transactions]](MySQLTransactions.md)
--[[Common Table Expressions (CTE) en MySQL]](CTE.md)
--[[MySQL Prepared Statements (Consultas Preparadas)]](PreparedStatements.md)
--[[MySQL JSON]](MySQLJSON.md)
+- [[Database Optimization MySQL]](DatabaseOptimizationMySQL.md)
+- [[MySQL Transactions]](MySQLTransactions.md)
+- [[Common Table Expressions (CTE) en MySQL]](CTE.md)
+- [[MySQL Prepared Statements (Consultas Preparadas)]](PreparedStatements.md)
+- [[MySQL JSON]](MySQLJSON.md)
 
 ### Módulo 3 - Data Analitycs
 [[Data Analytics]](DataAnalytics.md)
